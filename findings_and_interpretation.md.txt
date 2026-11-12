@@ -1,0 +1,63 @@
+# Findings and Interpretation
+
+## 1. Overview
+
+This analysis examines Munshi Premchand's short story *कफ़न* through the themes of poverty, hunger, labour, caste, gender inequality, human sensitivity and social criticism. The analysis combines close literary reading with AI-assisted thematic extraction.
+
+## 2. Key Findings
+
+### Poverty and Hunger
+
+Poverty and hunger are central to the story. Ghisu and Madhav live in severe material insecurity. Their decisions are shaped by their struggle for food and survival. The story raises questions about how poverty affects human behaviour and social relationships.
+
+### Labour and Individual Responsibility
+
+The story presents a complicated relationship between poverty, work and individual responsibility. Ghisu and Madhav avoid regular labour, while Budhiya performs domestic and reproductive labour. Their behaviour cannot be explained through poverty alone; their choices and neglect also require critical examination.
+
+### Caste and Social Marginalisation
+
+The story identifies Ghisu and Madhav as members of the Chamar community. Their social position provides an important context for examining exclusion, poverty and unequal access to resources. However, caste should not be treated as the only explanation for every action in the narrative.
+
+### Gender Inequality and Budhiya's Neglect
+
+Budhiya's suffering during childbirth is central to the story. Her pain and death expose gender inequality and the unequal distribution of care and responsibility. Although her experience drives the narrative, her own voice remains limited.
+
+### Human Sensitivity and Moral Ambiguity
+
+The behaviour of Ghisu and Madhav creates moral discomfort. Their poverty invites sympathy, but their neglect of Budhiya and their use of the funeral money raise questions about responsibility and human sensitivity. The story does not offer a simple moral resolution.
+
+### Ritual and Social Criticism
+
+The shroud becomes a symbol of social expectations, public morality and economic hardship. The contrast between the purpose of funeral rituals and the men's use of the collected money creates irony and exposes contradictions in society.
+
+## 3. Interpretation of the Visualization
+
+The bar chart represents the number of textual evidence excerpts identified for each theme by the AI-assisted extraction process.
+
+It helps compare how much textual evidence was collected under different thematic categories. However, these counts do not represent the actual frequency of themes in the story or their literary importance. They reflect the organisation of evidence by the extraction prompt and AI analysis.
+
+## 4. Theoretical Interpretation
+
+### Cultural Materialism
+
+Cultural Materialism helps examine how material conditions, poverty, hunger, labour and economic inequality shape the characters' lives. In *कफ़न*, material insecurity is connected to the characters' choices, social relationships and access to resources.
+
+This framework helps move beyond judging the characters only as individuals and draws attention to the wider economic and social structures surrounding them.
+
+### Intersectionality
+
+Intersectionality helps examine how caste, class and gender overlap in shaping vulnerability. Budhiya's position as a poor woman within a marginalised household makes her experience particularly important.
+
+Her neglect during childbirth highlights how gender inequality operates within conditions of poverty and social marginalisation.
+
+## 5. Critical Reflection
+
+AI-assisted extraction helped organise recurring themes and identify textual evidence. However, AI outputs are not objective interpretations. They depend on the prompt, selected categories and the model's understanding of the text.
+
+The analysis therefore requires human verification, especially of quotations and interpretations. The limited narrative voice given to Budhiya also creates a limitation: her thoughts and experiences cannot be fully reconstructed from the available text.
+
+## 6. Conclusion
+
+*कफ़न* presents poverty, hunger, social marginalisation and human sensitivity as interconnected concerns. The story challenges readers to consider both structural inequality and individual responsibility.
+
+Combining literary interpretation with computational thematic extraction demonstrates how Digital Humanities methods can support critical reading while also requiring human judgement and contextual understanding.

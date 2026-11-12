@@ -1,0 +1,97 @@
+AI Literary Analysis Prompt: Premchand's ????
+Role
+Act as a Digital Humanities researcher specialising in Hindi literature, computational literary analysis, cultural materialism and intersectionality.
+Task
+Analyse the complete Hindi short story ???? by Munshi Premchand. Identify its major themes, social issues, character representations and narrative techniques using evidence from the original text.
+The analysis must be grounded in the supplied story. Do not invent incidents, quotations, characters or interpretations.
+Research Focus
+Explore the relationship between:
+1. Poverty, hunger and material insecurity.
+2. Labour, individual behaviour and moral responsibility.
+3. Caste and social marginalisation.
+4. Gender inequality and Budhiya's neglect.
+5. Human sensitivity, survival and moral ambiguity.
+6. Social criticism and narrative irony.
+Theoretical Frameworks
+A. Cultural Materialism
+Examine:
+* How poverty and material conditions influence the characters' choices.
+* The relationship between hunger, labour and survival.
+* Economic inequality and class relations.
+* How material deprivation affects human relationships and behaviour.
+B. Intersectionality
+Examine:
+* The representation of caste and social exclusion.
+* The relationship between class and caste.
+* Budhiya's position as a poor woman within a marginalised household.
+* How gender, caste and economic conditions may intersect.
+Do not assume that every theme is equally prominent. Include only interpretations supported by the text.
+Specific Episodes to Examine
+Pay particular attention to:
+1. Ghisu and Madhav's living conditions and their attitude towards work.
+2. The episode in which they roast potatoes while Budhiya experiences labour pain.
+3. Their concern that someone might take away their potatoes.
+4. Budhiya's suffering, death and lack of care.
+5. The collection of money for the funeral shroud.
+6. Their decision to spend the money on food and alcohol.
+7. Their final remarks about Budhiya's death.
+Explain why these episodes are significant rather than merely retelling them.
+Required Extraction
+Extract the following for each major theme:
+* Theme ID
+* Theme name
+* Short description
+* Relevant character or characters
+* Exact supporting quotation in Hindi
+* Explanation of the quotation in the story's context
+* Analytical interpretation
+* Relevant theoretical framework
+* Evidence strength: Strong, Moderate or Limited
+Also identify:
+* Major character representations.
+* Important narrative ironies.
+* Contradictions between individual responsibility and structural inequality.
+* Themes that overlap with one another.
+Output Format
+Return the results in valid JSON only, using this structure:
+{
+"story": "????",
+"author": "Munshi Premchand",
+"research_focus": "Poverty, hunger, social marginalisation and human sensitivity",
+"themes": [
+{
+"theme_id": "T1",
+"theme_name": "",
+"description": "",
+"characters": [],
+"textual_evidence": [
+{
+"quotation": "",
+"context": "",
+"interpretation": ""
+}
+],
+"theoretical_framework": [],
+"evidence_strength": ""
+}
+],
+"character_analysis": [],
+"narrative_ironies": [],
+"overlapping_themes": [],
+"overall_interpretation": ""
+}
+Accuracy and Research Guidelines
+1. Use the supplied original Hindi story as the primary source.
+2. Preserve Hindi quotations exactly as they appear in the supplied text.
+3. Never fabricate quotations or textual evidence.
+4. Do not confuse Dhaniya with Budhiya or Ghisu with Madhav.
+5. Clearly distinguish textual facts from analytical interpretations.
+6. Do not automatically equate poverty with laziness or lack of morality.
+7. Do not automatically justify the characters' actions because of poverty.
+8. Examine both structural conditions and individual responsibility.
+9. Do not present an interpretation as the author's definite intention unless supported by evidence.
+10. Avoid unsupported numerical claims about theme frequency.
+11. If evidence for a theme is insufficient, explicitly mention this limitation.
+Final Objective
+Produce a structured, evidence-based literary analysis that can be used for a Digital Humanities project, Python-based theme organisation and theme visualisation.
+
